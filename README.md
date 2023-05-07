@@ -1,5 +1,5 @@
 # Vue_ElementUI_Express_Mysql_NovelReading
-1362基于Vue+ElementUI+Express+Mysql电子书小说阅读网设计
+基于Vue+ElementUI+Express+Mysql电子书小说阅读网设计
 
 开发技术：Vue + ElementUI + layui + express
 开发环境：VsCode + NodeJs + Mysql
